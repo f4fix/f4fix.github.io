@@ -1,0 +1,253 @@
+.infinity-dark-contrast.hljs {
+  color: #b9c3d5; /* Editor foreground */
+  background: #161926; /* Editor background */
+}
+
+.infinity-dark-contrast .hljs-keyword {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-built_in {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-type {
+  color: #00A1E4; /* Space Stone */
+}
+
+.infinity-dark-contrast .hljs-literal {
+  color: #ff206e; /* Reality Stone */
+}
+
+.infinity-dark-contrast .hljs-number {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-operator {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-punctuation {
+  color: #b9c3d5; /* Editor foreground */
+}
+
+.infinity-dark-contrast .hljs-property {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-regexp {
+  color: #00A1E4; /* Space Stone */
+}
+
+.infinity-dark-contrast .hljs-string {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-char.escape_ {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-subst {
+  color: #b9c3d5; /* Editor foreground */
+}
+
+.infinity-dark-contrast .hljs-symbol {
+  color: #ff206e; /* Reality Stone */
+}
+
+.infinity-dark-contrast .hljs-variable {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-variable.language_ {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-variable.constant_ {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-title {
+  color: #DDA2F6; /* Vision Stone */
+}
+
+.infinity-dark-contrast .hljs-title.class_ {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-title.function_ {
+  color: #DDA2F6; /* Vision Stone */
+}
+
+.infinity-dark-contrast .hljs-params {
+  color: #b9c3d5; /* Editor foreground */
+}
+
+.infinity-dark-contrast .hljs-comment {
+  color: #5f6167; /* Voice of Universe */
+}
+
+.infinity-dark-contrast .hljs-doctag {
+  color: #ff206e; /* Reality Stone */
+}
+
+.infinity-dark-contrast .hljs-meta {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-section {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-tag {
+  color: #ff206e; /* Reality Stone */
+}
+
+.infinity-dark-contrast .hljs-name {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-attr {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-attribute {
+  color: #DDA2F6; /* Vision Stone */
+}
+
+.infinity-dark-contrast .hljs-bullet {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-code {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-emphasis {
+  color: #ff206e; /* Reality Stone */
+  font-style: italic;
+}
+
+.infinity-dark-contrast .hljs-strong {
+  color: #ff206e; /* Reality Stone */
+  font-weight: bold;
+}
+
+.infinity-dark-contrast .hljs-formula {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-link {
+  color: #9d65ff; /* Power Stone */
+  font-style: italic;
+}
+
+.infinity-dark-contrast .hljs-quote {
+  color: #58ebd7; /* Time Stone */
+  font-style: italic;
+}
+
+.infinity-dark-contrast .hljs-selector-tag {
+  color: #DDA2F6; /* Vision Stone */
+}
+
+.infinity-dark-contrast .hljs-selector-id {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-selector-class {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-selector-attr {
+  color: #ff206e; /* Reality Stone */
+}
+
+.infinity-dark-contrast .hljs-selector-pseudo {
+  color: #9d65ff; /* Power Stone */
+}
+
+.infinity-dark-contrast .hljs-template-tag {
+  color: #58ebd7; /* Time Stone */
+}
+
+.infinity-dark-contrast .hljs-template-variable {
+  color: #ff206e; /* Reality Stone */
+}
+
+.infinity-dark-contrast .hljs-addition {
+  color: #58ebd7; /* Time Stone */
+  background: rgba(88, 235, 215, 0.15);
+}
+
+.infinity-dark-contrast .hljs-deletion {
+  color: #ff206e; /* Reality Stone */
+  background: rgba(255, 32, 110, 0.15);
+}
+
+.infinity-dark-contrast code {
+  color: #b9c3d5; /* Editor foreground */
+  background: #181B28; /* Dark background */
+}
+
+.infinity-dark-contrast blockquote blockquote {
+  border-top: 0.1em solid #343b46; /* Dark border */
+  border-bottom: 0.1em solid #343b46; /* Dark border */
+}
+
+.infinity-dark-contrast hr {
+  border-color: #705FBD; /* Dark border */
+  border-style: solid;
+}
+
+.infinity-dark-contrast del {
+  color: #5f6167; /* Voice of Universe */
+}
+
+.infinity-dark-contrast .ace_gutter {
+  color: #2a3049; /* Inactive line number */
+  background: #181B28; /* Dark background */
+}
+
+.infinity-dark-contrast .ace_gutter-active-line.ace_gutter-cell {
+  color: #9d65ff; /* Active line number */
+  background: #181B28; /* Dark background */
+}
+
+.infinity-dark-contrast .tooltiptext {
+  background: #181B28; /* Dark background */
+  color: #b9c3d5; /* Editor foreground */
+}
+
+.infinity-dark-contrast {
+  --bg: #161926;
+  --fg: #f8f8f0;
+  --sidebar-bg: #181b28;
+  --sidebar-fg: #f8f8f0;
+  --sidebar-non-existant: #5f6167;
+  --sidebar-active: #9d65ff;
+  --sidebar-spacer: #2a3049;
+  --scrollbar: #2a3049;
+  --icons: #485783;
+  --icons-hover: #9d65ff;
+  --links: #9d65ff;
+  --inline-code-color: #58ebd7; /* Time Stone */
+  --theme-popup-bg: #181B28;
+  --theme-popup-border: #343b46;
+  --theme-hover: #2C313A;
+  --quote-bg: #181B28;
+  --quote-border: #181A1F;
+  --table-border-color: #181A1F;
+  --table-header-bg: #181B28;
+  --table-alternate-bg: #181B28;
+  --searchbar-border-color: #181A1F;
+  --searchbar-bg: #181B28;
+  --searchbar-fg: #b9c3d5; /* Editor foreground */
+  --searchbar-shadow-color: #181A1F;
+  --searchresults-header-fg: #b9c3d5; /* Editor foreground */
+  --searchresults-border-color: #181A1F;
+  --searchresults-li-bg: #181b28;
+  --search-mark-bg: #9d65ff; /* Power Stone */
+  --warning-border: #FABC2A; /* Warning color */
+  --color-scheme: dark;
+}
