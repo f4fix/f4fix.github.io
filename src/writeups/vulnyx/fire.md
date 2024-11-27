@@ -1,6 +1,6 @@
 # Fire
 
-[link de descarga de la máquina Fire](https://mega.nz/file/hfwwgZQS#PrlxyDa-eAT_PtA66Qx1Hb255gpxCXKFhTUQkH75qpw)
+[link => fire](https://mega.nz/file/hfwwgZQS#PrlxyDa-eAT_PtA66Qx1Hb255gpxCXKFhTUQkH75qpw)
 
 ---
 

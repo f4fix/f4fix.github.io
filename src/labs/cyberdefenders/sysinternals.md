@@ -1,8 +1,6 @@
-+++
-title = 'Sysinternals - Cyberdefenders (Medium)'
-+++
+# Sysinternals
 
-###### Category: Endpoint Forensics
+## Category: Endpoint Forensics
 
 [link del laboratorio Sysinternals](https://cyberdefenders.org/blueteam-ctf-challenges/sysinternals/)
 

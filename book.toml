@@ -9,7 +9,7 @@ src = "src"
 additional-css = ["./theme/infinity.css","./theme/dracula.css","./theme/catppuccin.css", "./theme/fonts/fonts.css"]
 default-theme = "latte"
 preferred-dark-theme = "mocha"
-git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-url = "https://github.com/f4fix"
 git-repository-icon = "fa-github"
 
 [output.html.fold]

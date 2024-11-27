@@ -6,7 +6,7 @@
 
 # Writeups
 
-- [Vulnhub](./writeups/vulnhub.md)
+- [Vulnhub](./writeups/vulnhub/vulnhub.md)
      - [Aragog](./writeups/vulnhub/aragog.md)
      - [Dawn](./writeups/vulnhub/dawn.md)
      - [Election: 1](./writeups/vulnhub/election1.md)
