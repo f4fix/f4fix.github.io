@@ -63,4 +63,5 @@
 
 - [Intro Sisops](./posts/intro-sisops.md)
 - [Procesos](./posts/procesos-sisops.md)
-
+- [Recursos Linux](./posts/recursos-linux.md)
+- [Recursos Windows](./posts/recursos-windows.md)
